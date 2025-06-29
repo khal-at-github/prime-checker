@@ -1,4 +1,4 @@
-#Miller-Rabin prime test
+# Miller-Rabin prime test
 import random as r
 import numpy as np
 def prime_test(n):
